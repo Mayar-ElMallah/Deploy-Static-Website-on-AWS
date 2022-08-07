@@ -1,6 +1,6 @@
 Mayar Subramanian - Cloud front URL
 
-http://Mayar-udacity-website.s3.amazonaws.com/index.html
+http://Deepa-udacity-website.s3.amazonaws.com/index.html
 
 
 
